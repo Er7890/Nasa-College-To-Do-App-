@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/83400697/202429157-a953dc00-f32d-4312-862a-1902a628b6ba.png)
 
 
-Join the [discord server](https://discord.gg/JdFsJPrayj) for more discussion: 
+
 
 # To-Do List Application
 
@@ -15,16 +15,6 @@ This is a simple yet effective To-Do List Application built with HTML, CSS, and 
 - HTML
 - CSS
 - JavaScript
-
-## Installation
-
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/Kritika30032002/To-Do-List-Application.git
-```
-Open the index.html file in your web browser to start using the application.
-
 
 ## Usage
  1. Add tasks with a simple click.
@@ -45,10 +35,6 @@ Example prompt for editing tasks :
 Example prompt for deketing a task : 
  "Delete task assignment"  
 
- Watch our video for detailed demonstration. 
- 
-https://github.com/AishaAgarwal/To-Do-List-Application/assets/107138192/832814c7-cd21-4c85-81ed-e7192c720710
-
 ## Contributing
 Feel free to contribute to this project by creating a pull request. We welcome any improvements, bug fixes, or new features.
 
@@ -60,13 +46,10 @@ Feel free to contribute to this project by creating a pull request. We welcome a
 
 
 
-## Thanks to all Contributors 💪
+## Thanks to Bikash Sainju (CEO) sir for Motivation 💪
 
-<a href="https://github.com/Kritika30032002/To-Do-List-Application/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kritika30032002/To-Do-List-Application"/>
+<a href="https://github.com/Er7890">
 </a>  <br>
 Thanks a lot for spending your time. <br>
 Keep rocking 🍻 <br>
 Also Give it a Star 🌟, If you loved contributing to the project.
-
-## [MIT Licensed](https://github.com/Kritika30032002/To-Do-List-Application/blob/main/LICENSE)
